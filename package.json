@@ -1,0 +1,17 @@
+{
+  "name": "parcel-phina-sample-project",
+  "version": "1.0.0",
+  "description": "sample project for parcel and phina.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orange634",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.10.3"
+  },
+  "dependencies": {
+    "phina.js": "^0.2.3"
+  }
+}
