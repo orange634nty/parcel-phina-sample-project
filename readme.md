@@ -22,5 +22,5 @@ $ rm -rf dist
 $ npx parcel build src/index.html
 ```
 
-then the build product will come out to `dist`.
+then the build product will publish to `dist`.
 
