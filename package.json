@@ -12,7 +12,7 @@
     "js-yaml": ">=3.13.1",
     "kind-of": ">=6.0.3",
     "minimist": ">=1.2.6",
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "serialize-to-js": ">=3.0.1",
     "set-value": "^4.0.1"
   },
